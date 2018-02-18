@@ -1,0 +1,19 @@
+#cathChr {
+  background-color: coral;
+  border: 1px solid #c0ffa0;
+  margin-bottom: 50px;
+  padding: 10px;
+  font-size: 3em;
+  width: 500px;
+  text-align:center;
+  }
+
+#orthChr {
+  background-color: #bfc9ff;
+  border: 1px solid #2b3777;
+   padding: 10px;
+  font-size: 3em;
+  width: 500px;
+  text-align:center;
+  }
+
